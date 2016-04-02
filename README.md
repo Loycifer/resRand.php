@@ -9,4 +9,4 @@ However, PHP allows for writing and saving to external files, something which Ja
 
 Thus, the creation of stimulus lists, and possibly the creation of entire scripts for programs such as Neurobehavioral Systems' Presentation, can be easily automated using PHP.
 
-The object works identically to its JavaScript counterpart, so you should be able to use the [resRand.js Readme](https://github.com/Loycifer/resRand.js/blob/master/README.md) for instructions.
+The object works identically to its JavaScript counterpart, so you should be able to use the [resRand.js Readme](https://github.com/Loycifer/resRand.js/blob/master/README.md) for instructions, provided you are proficient in PHP.
